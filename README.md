@@ -3,4 +3,4 @@ This repository contains implementations of some of my codes for problems I have
 
 The various problems, and their links are:
 
-* palpath.cpp - (Palindromic Paths)[https://www.codechef.com/problems/PALPATH] 
+* palpath.cpp - [Palindromic Paths](https://www.codechef.com/problems/PALPATH)
