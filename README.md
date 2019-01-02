@@ -3,8 +3,8 @@ This repository contains my codes for some of the problems that I have solved in
 
 The various problems, and their links are:
 ## Contests
-### ACM-ICPC Regionals
+
 * palpath.cpp - [Palindromic Paths](https://www.codechef.com/problems/PALPATH)
 
-## Ladder
+## A2OJ Ladder
 * luckysub.cpp - [Lucky Subsequence](http://codeforces.com/problemset/problem/145/C)
