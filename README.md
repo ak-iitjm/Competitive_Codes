@@ -7,6 +7,7 @@ The various problems, and their links are:
 * palpath.cpp - [Palindromic Paths](https://www.codechef.com/problems/PALPATH)
 
 ## A2OJ Ladder
-* luckysub.cpp - [Lucky Subsequence](http://codeforces.com/problemset/problem/145/C)
-* Grundy_numbers.cpp - [Interesting Game](http://codeforces.com/problemset/problem/87/C)
-* zero_one.cpp - [Zero-One](http://codeforces.com/contest/135/problem/C)
+### Div 2-E
+* 24). luckysub.cpp - [Lucky Subsequence](http://codeforces.com/problemset/problem/145/C)
+* 25). Grundy_numbers.cpp - [Interesting Game](http://codeforces.com/problemset/problem/87/C)
+* 26). zero_one.cpp - [Zero-One](http://codeforces.com/contest/135/problem/C)
