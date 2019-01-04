@@ -9,3 +9,4 @@ The various problems, and their links are:
 ## A2OJ Ladder
 * luckysub.cpp - [Lucky Subsequence](http://codeforces.com/problemset/problem/145/C)
 * Grundy_numbers.cpp - [Interesting Game](http://codeforces.com/problemset/problem/87/C)
+* zero_one.cpp - [Zero-One](http://codeforces.com/contest/135/problem/C)
