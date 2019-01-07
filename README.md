@@ -8,9 +8,9 @@ The various problems, and their links are:
 * palpath.cpp - [Palindromic Paths](https://www.codechef.com/problems/PALPATH)
 * alfred.cpp - [Almost Friends](https://www.codechef.com/AMR18ROL/problems/ALFRED)
 ### Hello 2019 (Codeforces)
-* Problem [A](https://codeforces.com/contest/1097/problem/A)
-* Problem [B](https://codeforces.com/contest/1097/problem/B)
-* Problem [C](https://codeforces.com/contest/1097/problem/C)
+* gcard.cpp - Problem [A](https://codeforces.com/contest/1097/problem/A)
+* combilock.cpp - Problem [B](https://codeforces.com/contest/1097/problem/B)
+* yparen.cpp - Problem [C](https://codeforces.com/contest/1097/problem/C)
 
 ## A2OJ Ladder
 ### Div 2-E
