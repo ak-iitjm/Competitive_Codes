@@ -5,6 +5,7 @@ The various problems, and their links are:
 ## Contests
 
 * palpath.cpp - [Palindromic Paths](https://www.codechef.com/problems/PALPATH)
+* alfred.cpp - [Almost Friends](https://www.codechef.com/AMR18ROL/problems/ALFRED)
 
 ## A2OJ Ladder
 ### Div 2-E
