@@ -18,3 +18,4 @@ The various problems, and their links are:
 * 25). Grundy_numbers.cpp - [Interesting Game](http://codeforces.com/problemset/problem/87/C)
 * 26). zero_one.cpp - [Zero-One](http://codeforces.com/contest/135/problem/C)
 * 27). gameontree.cpp - [Game on Trees](https://codeforces.com/problemset/problem/280/C)
+* 28). last_chance.cpp - [Last Chance](https://codeforces.com/problemset/problem/137/E)
