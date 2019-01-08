@@ -17,3 +17,4 @@ The various problems, and their links are:
 * 24). luckysub.cpp - [Lucky Subsequence](http://codeforces.com/problemset/problem/145/C)
 * 25). Grundy_numbers.cpp - [Interesting Game](http://codeforces.com/problemset/problem/87/C)
 * 26). zero_one.cpp - [Zero-One](http://codeforces.com/contest/135/problem/C)
+* 27). gameontrees.cpp - [Game on Trees](https://codeforces.com/problemset/problem/280/C)
